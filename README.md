@@ -1,7 +1,3 @@
-# Brazil Racial Dotmap
-
-Python and Processing code for creating (1) a dataset for every person in Brazil, coded by race, and (2) map tiles from the data. The end result can be seen at http://patadata.org/maparacial
-
 # Methodology/how-to
 
 ## Step 0. Map+data joins
